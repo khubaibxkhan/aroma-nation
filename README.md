@@ -1,7 +1,7 @@
 # 🌸 Aroma Nation ✨  
 *Where Elegance Meets Fragrance*  
 
-![Aroma Nation Banner](https://via.placeholder.com/1200x400?text=Aroma+Nation+Perfume+Brand)  
+![Aroma Nation Banner](./public/logo.jpg)  
 
 ---
 
@@ -75,6 +75,7 @@ It highlights **premium fragrances**, an engaging **brand story**, and offers a 
 
 ## 📂folder Structure
 
+```bash
 aroma-nation/
 │
 ├── public/              # Static assets
@@ -87,6 +88,7 @@ aroma-nation/
 ├── .env.local           # Environment variables
 ├── package.json         # Dependencies
 └── README.md            # Project documentation
+
 
 --- 
 
