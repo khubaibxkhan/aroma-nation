@@ -12,7 +12,6 @@ const Footer = () => {
         <FooterTop />
         <div className='py-12 grid grid-cols-1 md:grid-cols-4 lg:grid-cols-4 gap=8'>
           <div className='space-y-4'>
-            <Logo />
 
             <p>
               Discover a world of captivating aromas with AromaNation and world of wonder.
