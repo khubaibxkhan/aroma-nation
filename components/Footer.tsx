@@ -15,7 +15,7 @@ const Footer = () => {
             <Logo />
 
             <p>
-              Discover a world of captivating aromas with AromaNation.
+              Discover a world of captivating aromas with AromaNation and world of wonder.
             </p>
             <SocialMedia 
                 className="text-darkColor/60"
